@@ -11,5 +11,8 @@ public class BioData {
 
 		// write city
 		System.out.println("City: Dhaka,Bangladesh");
+
+		// email
+		System.out.println("Email: chandanbashak1@gmail.com");
 	}
 }
